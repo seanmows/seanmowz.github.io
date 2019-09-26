@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{98:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Sean Mowrey",description:"enthusiastic engineering student",url:"https://seanmowz.github.io",keywords:"full stack developer, mechanical engineering, inter, portfolio, personal website"}}},layoutContext:{}}}});
-//# sourceMappingURL=path----ae2f0a9b8ee9b9a375a0.js.map
